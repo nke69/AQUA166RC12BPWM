@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Tinypic&trade; is a photo and video sharing service that allows you to easily upload, link and share your images and videos on MySpace&reg;, eBay&reg;, blogs and message boards. No account required, upload your photos and videos today!"/>
+<meta name="keywords" content="Image, images, photos, videos, myspace, ebay, video hosting, photo hosting" />
+<meta name="apple-itunes-app" content="app-id=1027505227" />
+<meta name="verify-v1" content="fO0QbJVcnsRYQK+nNh+imYtoUtpYCty8rNlZqXrOEPk=" />
+<meta name="google-site-verification" content="tDU6kRUzZf-I6Y0nrqeyOdjV5MK-BzUormA1NS1YVH4" />
+<meta name="y_key" content="06826e1b6c5fc1e5" />
+<title>
+Image - TinyPic - H&eacute;bergement gratuit d'images, partage de photos et h&eacute;bergement de vid&eacute;os
+</title>
+<script type="text/javascript">
+		captcha_count = 0 + '';  
+		captcha_each = 0 + '';
+	</script>
+<link rel="stylesheet" href="http://static.tinypic.com/s/global_v4.4.1.css" type="text/css"/>
+<link rel="stylesheet" href="http://static.tinypic.com/s/thickbox_v4.4.1.css" type="text/css"/>
+<script src="http://static.tinypic.com/j/jquery.pack_v4.4.1.js" type="text/javascript"></script>
+<script src="http://static.tinypic.com/j/global_v4.4.1.js" type="text/javascript"></script>
+<script src="http://static.tinypic.com/j/thickbox.pack_v4.4.1.js" type="text/javascript"></script>
+<script src="http://static.tinypic.com/j/swfobject_v4.4.1.js" type="text/javascript"></script>
+<link rel="image_src" href="http://i40.tinypic.com/xknc53_th.jpg"/>
+<meta name="media" content="image"/>
+<!--[if IE 7]><link rel="stylesheet" href="http://static.tinypic.com/s/ie7_v4.4.1.css" type="text/css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="http://static.tinypic.com/s/ie6_v4.4.1.css" type="text/css" /><![endif]-->
+<!--[if lt IE 6]><link rel="stylesheet" href="http://static.tinypic.com/s/ie5_v4.4.1.css" type="text/css" /><![endif]-->
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<!-- tinypic ga -->
+<script type="text/javascript">
+		var pageTracker;
+		var buttonTracker;
+		function startGA() {
+			pageTracker =  _gat._getTracker("UA-245455-4");
+			pageTracker._setDomainName(".tinypic.com");
+			pageTracker._initData();
+			pageTracker._trackPageview();
+			buttonTracker = pageTracker._createEventTracker('button');
+		}
+		if (typeof(_gat) == 'object') {
+			startGA();
+		} else {
+			setTimeout('startGA();', 500);
+		}
+	</script>
+<!-- proper ads header -->
+<script>
+		var propertag = propertag || {};
+		propertag.cmd = propertag.cmd || [];
+		(function() {
+			var pm = document.createElement('script');
+			pm.async = true; pm.type = 'text/javascript';
+			var is_ssl = 'https:' == document.location.protocol;
+			pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/tinypic.min.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(pm, node);
+		})();
+	</script>
+<link rel="search" type="application/opensearchdescription+xml" href="/openservices/opensearch.xml" title="TinyPic" />
+</head>
+<body  class="pg-full">
+<a name="top"></a>
+<div class="header-container">
+<div id="ad_banner" class="ad_banner">
+<div class="proper-ad-unit">
+<div id="proper-ad-tinypic_aboveimage"> <script> propertag.cmd.push(function() { proper_display('tinypic_aboveimage'); }); </script> </div>
+</div>
+</div>
+</div>
+<!-- Main Header Bar -->
+<div class="member-container">
+<div class="container member-header" id="member-header">
+<p><a class="button" id="join-now" href="/join.php?utm_source=header&amp;utm_medium=button&amp;utm_campaign=join_button" onclick="buttonTracker._trackEvent('Join', 'Header');">S'inscrire maintenant!</a></p>
+<form id="signinForm" name="signinForm" action="http://fr.tinypic.com/login.php" method="post">
+<input type="hidden" name="action" value="login"/>
+<input type="hidden" name="ref" value="%2Fview.php%3Fpic%3Dxknc53%26s%3D5"/>
+<div>
+<table>
+<tr>
+<td>
+<label for="email">Adresse &eacute;lectronique:</label> 
+</td>
+<td>
+<input type="text" id="email" class="input-text" name="email" value="" maxlength="150" /> 
+</td>
+<td>
+<label for="password">Mot de passe:&nbsp;</label> 
+</td>
+<td>
+<input type="password" name="password" class="input-text" id="password" value="" maxlength="150" />
+</td>
+<td>
+<input type="submit" id="submitSignIn" value="Connexion" onclick="buttonTracker._trackEvent('Login', 'Header');"/>
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<a href="http://fr.tinypic.com/forgotten.php">Mot de passe oubli&eacute; ?</a>
+</td>
+<td></td>
+</tr>
+</table>
+</div>
+</form>
+<br class="clear" />
+</div> <!-- Close Container -->
+</div>
+<div class="header-container">
+<div class="container" id="header">
+<a id="branding" href="http://fr.tinypic.com" title="Visitez la page d'accueil de TinyPic"><img src="http://static.tinypic.com/i/tinypic-branding_@1x.png" alt="Visitez la page d'accueil de TinyPic" /></a>
+<ul> 
+<li id="pg-upload"><a href="http://fr.tinypic.com/" title=""><span>T&eacute;l&eacute;charger</span></a></li> 
+<li id="pg-images" class="current"><a href="http://fr.tinypic.com/images.php" title=""><span>Images</span></a></li> 
+<li id="pg-videos"><a href="http://fr.tinypic.com/videos.php" title=""><span>Vid&eacute;os</span></a></li> 
+<li id="pg-categories"><a href="http://fr.tinypic.com/categories" title=""><span>Categories</span></a></li> 
+<li id="pg-favorites"><a href="http://fr.tinypic.com/favorites.php" title=""><span>Favoris</span></a></li> 
+</ul> 
+<form id="inline-search" action="http://fr.tinypic.com/search.php" method="get">
+<div id="searchType">
+<a href="javascript:void(0);" class="selectedType" name="images">Images</a>&nbsp;|&nbsp;<a href="javascript:void(0);" name="videos">Vid&eacute;os</a>
+</div>
+<div>
+<input type="hidden" name="type" id="type" value="images"/>
+<input type="text" class="input-text default" name="tag" id="tag" value="" size="18" />
+<input type="submit" id="submitSearch" value="Chercher" />
+</div>
+</form>
+</div> <!-- Close Container -->
+</div> <!-- Close Header Container -->
+<div class="body-container">
+<div class="container">
+<div class="columns">
+<div class="content-sec">
+<div class="ad">
+<div class="proper-ad-unit">
+<div id="proper-ad-tinypic_side_1"> <script> propertag.cmd.push(function() { proper_display('tinypic_side_1'); }); </script> </div>
+</div>
+</div>
+<div class="media-toolbox">
+<h3>Share</h3>
+<div class="tools">
+<!-- AddThis Button BEGIN -->
+<br class="clear" />
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_reddit"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_tumblr"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript">
+		var addthis_share = {
+		templates: {
+			twitter: 'http://fr.tinypic.com/r/xknc53/5',
+		}
+	}
+		</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52278e483b6a4061"></script>
+<!-- AddThis Button END -->           </div>
+<br class="clear" />
+</div>
+<div class="media-toolbox">
+<h3>Tools</h3>
+<div class="tools">
+<p id="joinToSave">
+Save your favorites forever!
+<a href="http://fr.tinypic.com/join.php?utm_source=fullview&amp;utm_medium=button&amp;utm_campaign=fullview_ballon">Join for free &raquo;</a>
+</p>
+<ul>
+<li id="favoriteImage" >
+<a href="javascript:void(0);" id="addFav" style="display: ;">Ajouter aux favoris</a>
+<a href="javascript:void(0);" id="removeFav" style="display: none;">Supprimer des favoris</a>
+</li>
+<li id="uploadNew">
+<a href="http://fr.tinypic.com/">T&eacute;l&eacute;charger</a>
+</li>
+<li id="zoomIn"> 
+<a href="http://i40.tinypic.com/xknc53.jpg" class="thickbox">Zoom</a>
+</li>
+</ul>
+<script type="text/javascript">
+                    //<![CDATA[
+                    $(document).ready(function () {
+                            $('a#addFav').click(function() {
+                                $(this).hide();
+                                $.post('/svc.php', 
+                                    { action: 'addfav', 
+                                      hex: "xknc53",
+                                      silo: "5",
+                                      type: "image" },
+                                    function(d) {
+                                        $('#favoriteImage').removeClass('saving');
+                                        if (d.success == true) {
+                                            $("a#addFav").hide();
+                                            $("a#removeFav").show();
+                                            $("#favoriteImage").addClass('added');
+                                                                                        $("p#joinToSave").show();
+                                                                                    } else {
+                                            alert('fail!');
+                                            $("a#addFav").hide();
+                                        }
+                                    }, 
+                                    'json');
+                                });
+                            $('a#removeFav').click(function() {
+                                $(this).hide();
+                                $.post('/svc.php', 
+                                    { action: 'delfav', 
+                                      hex: "xknc53",
+                                      silo: "5" },
+                                    function(d) {
+                                        if (d.success == true) {
+                                            $("a#addFav").show();
+                                            $("a#removeFav").hide();
+                                            $("#favoriteImage").removeClass('added');
+                                                                                        $("p#joinToSave").hide();
+                                                                                    } else {
+                                            alert('fail!');
+                                            $("a#removeFav").show();
+                                        }
+                                    }, 
+                                    'json');
+                                });
+                            });
+                    //]]>
+                    </script>
+<br class="clear" />
+</div> <!-- Tools -->
+<h3>R&eacute;cup&eacute;rez votre code</h3>	
+<form action="">
+<div>
+<label for="html-code">HTML pour sites Web</label>
+<div id="flash-html-code" class="flashcode">
+<input type="text" class="input-link" id="html-code" value="&lt;a href=&quot;http://fr.tinypic.com?ref=xknc53&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://i40.tinypic.com/xknc53.jpg&quot; border=&quot;0&quot; alt=&quot;Image and video hosting by TinyPic&quot;&gt;&lt;/a&gt;" size="39" onclick="highlight(getElementById('html-code')); APITrack('copy_image_html');" />
+</div>
+<script type="text/javascript">
+                // <![CDATA[
+                var fo = new SWFObject("http://fr.tinypic.com/i/input.swf", "flash-html-code", "262", "19", "10", "transparent");
+                fo.addVariable("ipt", "%3Ca+href%3D%22http%3A%2F%2Ffr.tinypic.com%3Fref%3Dxknc53%22+target%3D%22_blank%22%3E%3Cimg+src%3D%22http%3A%2F%2Fi40.tinypic.com%2Fxknc53.jpg%22+border%3D%220%22+alt%3D%22Image+and+video+hosting+by+TinyPic%22%3E%3C%2Fa%3E");
+                fo.addVariable("trk", "copy_image_html");
+                fo.addParam("name", "html-code");
+                fo.addParam("wmode", "transparent");
+                fo.addParam("allowFullScreen","true");
+                fo.addParam("swliveconnect", "true");
+                fo.addParam("allowScriptAccess", "always");
+                fo.write("flash-html-code");
+                // ]]>
+            </script>
+</div>
+<div>
+<label for="img-code">Code IMG pour forums &amp; sites de messagerie</label>
+<div id="flash-img-code" class="flashcode">
+<input type="text" class="input-link" id="img-code" value="[IMG]http://i40.tinypic.com/xknc53.jpg[/IMG]" size="39" onclick="highlight(getElementById('img-code')); APITrack('copy_image_img');" />
+</div>
+<script type="text/javascript">
+                // <![CDATA[
+                var fo = new SWFObject("http://fr.tinypic.com/i/input.swf", "flash-html-code", "262", "19", "10", "transparent");
+                fo.addVariable("ipt", "%5BIMG%5Dhttp%3A%2F%2Fi40.tinypic.com%2Fxknc53.jpg%5B%2FIMG%5D");
+                fo.addVariable("trk", "copy_image_img");
+                fo.addParam("name", "img-code");
+                fo.addParam("wmode", "transparent");
+                fo.addParam("allowFullScreen","true");
+                fo.addParam("swliveconnect", "true");
+                fo.addParam("allowScriptAccess", "always");
+                fo.write("flash-img-code");
+                // ]]>
+            </script>
+</div>
+<div>
+<label for="email-url">URL pour courrier &eacute;lectronique et messagerie instantan&eacute;e</label>
+<div id="flash-email-url" class="flashcode">
+<input type="text" class="input-link" id="email-url" value="http://fr.tinypic.com/r/xknc53/5" size="39" onclick="highlight(getElementById('email-url')); APITrack('copy_image_view');" />
+</div>
+<script type="text/javascript">
+                // <![CDATA[
+                var fo = new SWFObject("http://fr.tinypic.com/i/input.swf", "flash-html-code", "262", "19", "10", "transparent");
+                fo.addVariable("ipt", "http%3A%2F%2Ffr.tinypic.com%2Fr%2Fxknc53%2F5");
+                fo.addVariable("trk", "copy_image_view");
+                fo.addParam("name", "email-url");
+                fo.addParam("wmode", "transparent");
+                fo.addParam("allowFullScreen","true");
+                fo.addParam("swliveconnect", "true");
+                fo.addParam("allowScriptAccess", "always");
+                fo.write("flash-email-url");
+                // ]]>
+            </script>
+</div>
+<div>
+<label for="direct-url">Lien direct pour affichage</label>
+<div id="flash-direct-url" class="flashcode">
+<input type="text" class="input-link" id="direct-url" value="http://i40.tinypic.com/xknc53.jpg" size="39" onclick="highlight(getElementById('direct-url')); APITrack('copy_image_url');" />
+</div>
+<script type="text/javascript">
+                // <![CDATA[
+                var fo = new SWFObject("http://fr.tinypic.com/i/input.swf", "flash-html-code", "262", "19", "10", "transparent");
+                fo.addVariable("ipt", "http%3A%2F%2Fi40.tinypic.com%2Fxknc53.jpg");
+                fo.addVariable("trk", "copy_image_url");
+                fo.addParam("name", "direct-url");
+                fo.addParam("wmode", "transparent");
+                fo.addParam("allowFullScreen","true");
+                fo.addParam("swliveconnect", "true");
+                fo.addParam("allowScriptAccess", "always");
+                fo.write("flash-direct-url");
+                // ]]>
+            </script>
+</div>
+</form>
+</div> <!-- Toolbox -->
+<p id="reportImage"><a href="javascript:void(0);" onclick="javascript:openOffensiveWindow('image', 'xknc53', '5');">Signaler du contenu offensant</a></p>
+<div class="ad">
+<div class="proper-ad-unit">
+<div id="proper-ad-tinypic_side_2"> <script> propertag.cmd.push(function() { proper_display('tinypic_side_2'); }); </script> </div>
+</div>
+</div>
+</div>
+<div class="content-main">
+<div class="pageHdr">
+<h1>
+<strong id="tag-holder">Balises : <span id="tag-text">
+<a href="javascript:void(0);" onclick="javascript:showTagsForm();">Cliquez pour ajouter des balises...</a>
+</span>
+</strong>
+<form id="tag-form" style="display: none;" action="updatetag.php" method="post" name="update_tag" target="form_iframe">
+<input type="hidden" name="hex" value="xknc53"/>
+<input type="hidden" name="s" value="5"/>
+<input type="hidden" name="type" value="image"/>
+<input type="text" name="add_tag" value="" maxlength="50" size="30" />
+<input type="button" id="saveTags" value="Save" class="save" onclick="javascript:submitTags(document.update_tag);" />
+<a href="javascript:void(0);" onclick="javascript:hideTagsForm();" class="cancel">Annuler</a>
+</form>
+</h1>
+<ul class="pagination">
+<li class="previous"><a href="http://fr.tinypic.com/view.php?pic=xknc4y&#38;s=5" title="See the previous media">&laquo; Prev</a></li>
+<li class="next"><a href="http://fr.tinypic.com/view.php?pic=xknc68&#38;s=5" title="See the next media">Next &raquo;</a></li>
+</ul>
+</div>
+<div class="media">
+<!-- Insert the movies or images here, wrap in a div for more control -->
+<input type="hidden" id="current_hex" value="xknc53" />
+<div id="imgFrame" class="imgtmp">
+<a href="http://oi40.tinypic.com/xknc53.jpg" class="thickbox" >
+<img src="http://oi40.tinypic.com/xknc53.jpg" title="Click for a larger view" id="imgElement" alt=""/>
+</a>
+</div>
+<script type="text/javascript">
+                    // <![CDATA[
+                    $("#imgElement").load(function() {
+                        resizeImg();
+                        $('a.thickbox').attr('name', '<br/><a href="http://oi40.tinypic.com/xknc53.jpg" target="_blank">View Raw Image</a>');
+                    });
+                    // ]]>
+                </script>
+</div>
+<h2>Images que vous aimerez aussi</h2>
+<ul class="quickBrowse">
+<li><a href="http://fr.tinypic.com/view.php?pic=xknc68&#38;s=5"><img src="http://s5.tinypic.com/xknc68_th.jpg" alt="" /></a></li>
+<li><a href="http://fr.tinypic.com/view.php?pic=xknc75&#38;s=5"><img src="http://s5.tinypic.com/xknc75_th.jpg" alt="" /></a></li>
+<li><a href="http://fr.tinypic.com/view.php?pic=xknc7m&#38;s=5"><img src="http://s5.tinypic.com/xknc7m_th.jpg" alt="" /></a></li>
+<li><a href="http://fr.tinypic.com/view.php?pic=xkncao&#38;s=5"><img src="http://s5.tinypic.com/xkncao_th.jpg" alt="" /></a></li>
+<li><a href="http://fr.tinypic.com/view.php?pic=xkncas&#38;s=5"><img src="http://s5.tinypic.com/xkncas_th.jpg" alt="" /></a></li>
+<li><a href="http://fr.tinypic.com/view.php?pic=xkncb4&#38;s=5"><img src="http://s5.tinypic.com/xkncb4_th.jpg" alt="" /></a></li>
+</ul>  
+<br class="clear" />                
+</div>
+<br class="clear" />        
+</div>
+<div id="rcjsload_c73698"></div>
+<script type="text/javascript">
+  (function() {
+    var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+    var rcds = document.getElementById("rcjsload_c73698");
+    var rcel = document.createElement("script");
+    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    rcel.type = 'text/javascript';
+    rcel.src = "http://trends.revcontent.com/serve.js.php?w=96896&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+    rcel.async = true;
+    rcds.appendChild(rcel);
+  })();
+</script>
+<div class="proper-ad-unit">
+<div id="proper-ad-tinypic_belowimage"> <script> propertag.cmd.push(function() { proper_display('tinypic_belowimage'); }); </script> </div>
+</div>
+<div id="site-info">
+<form id="language" action="" class="right"> 
+<div>
+<label for="language">Langue:</label> 
+<select size="1" onchange="location = this.options[this.selectedIndex].value">
+<option id="english" value="/language.php?lang=en&amp;ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">English</option>
+<option id="spanish" value="/language.php?lang=es&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Espa&ntilde;ol</option>
+<option id="french" value="/language.php?lang=fr&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5" selected>Fran&ccedil;ais</option>
+<option id="italian" value="/language.php?lang=it&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Italiano</option>
+<option id="german" value="/language.php?lang=de&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Deutsch</option>
+<option id="dutch" value="/language.php?lang=nl&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Nederlands</option>
+<option id="portuguese" value="/language.php?lang=pt-br&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Portugu&ecirc;s (Brasil)</option>
+<option id="polish" value="/language.php?lang=pl&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Polski</option>
+<option id="swedish" value="/language.php?lang=sv&ref=%2Fview.php%3Fpic%3Dxknc53%26s%3D5">Svenska</option>	
+</select>
+</div>
+</form>
+<p class="mute"> Suivez vos images et vid&eacute;os gr&acirc;ce &agrave; <a href=http://photobucket.com/>Photobucket!</a><br />&copy; 2004-2009 TinyPic&reg;, une soci&eacute;t&eacute; de partage de vid&eacute;os et de photos Photobucket.2018FOOTER_INFO2</p>
+<ul>
+<li><a href="http://fr.tinypic.com/about.php">&Agrave; propos de</a></li>
+<li><a href="javascript:void(0);" onclick="openTerms();">Conditions d'utilisation</a></li>
+<li><a href="javascript:void(0);" onclick="openPrivacy();">Vie priv&eacute;e &amp; Vie priv&eacute;e</a></li>
+<li class="last"><a href="javascript:void(0);" onclick="openHelp();">Aide&nbsp;?</a></li>
+</ul>
+<br class="clear" />
+</div>
+</div>
+</div>
+<iframe name="track_iframe" src="http://fr.tinypic.com/track.php?track=image" width="1" height="1" frameborder="0"></iframe>
+<!-- Begin comScore Tag -->
+<script>
+ var _comscore = _comscore || [];
+ _comscore.push({ c1: "2", c2: "16955838" });
+ (function() {
+   var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+   s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+   el.parentNode.insertBefore(s, el);
+ })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=16955838&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!--Begin Video Ad -->
+<script type="text/javascript">
+
+  (function()
+  {
+    var playerContainerId = '';
+    var playerId = '';
+    var playerWidth = '400';
+    var playerHeight = '300';
+    var playInitiation = 'auto';
+    var volume = '0';
+    var execution = 'outstream';
+    var placement = 'slider';
+    var support = '';
+    var render = '';
+    var controls = '';
+    var tracki = '';
+    var trackc = '';
+    var custom1 = '';
+    var custom2 = '';
+    var custom3 = '';
+    var pubMacros = '';
+
+    var lkqdVPAID;
+    var lkqdId = new Date().getTime().toString() + Math.round(Math.random()*1000000000).toString();
+    var creativeData = '';
+    var environmentVars = { slot: document.getElementById(playerContainerId), videoSlot: document.getElementById(playerId), videoSlotCanAutoPlay: true };
+
+    function onVPAIDLoad()
+    {
+      lkqdVPAID.subscribe(function() { lkqdVPAID.startAd(); }, 'AdLoaded');
+    }
+
+    var vpaidFrame = document.createElement('iframe');
+    vpaidFrame.id = lkqdId;
+    vpaidFrame.name = lkqdId;
+    vpaidFrame.style.display = 'none';
+    var vpaidFrameLoaded = function() {
+      vpaidLoader = vpaidFrame.contentWindow.document.createElement('script');
+      vpaidLoader.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//ad.lkqd.net/vpaid/formats.js?pid=121&sid=87054&apt=' + playInitiation + '&volume=' + volume + '&render=' + render + '&controls=' + controls + '&support=' + support + '&execution=' + execution + '&placement=' + placement + '&tracki=' + encodeURIComponent(tracki) + '&trackc=' + encodeURIComponent(trackc) + '&c1=' + encodeURIComponent(custom1) + '&c2=' + encodeURIComponent(custom2) + '&c3=' + encodeURIComponent(custom3) + '&rnd=' + Math.floor(Math.random() * 100000000) + '&m=' + encodeURIComponent(pubMacros);
+
+      vpaidLoader.onload = function() {
+        lkqdVPAID = vpaidFrame.contentWindow.getVPAIDAd();
+        onVPAIDLoad();
+        lkqdVPAID.handshakeVersion('2.0');
+        lkqdVPAID.initAd(playerWidth, playerHeight, 'normal', 600, creativeData, environmentVars);
+      };
+      vpaidFrame.contentWindow.document.body.appendChild(vpaidLoader);
+    };
+    vpaidFrame.onload = vpaidFrameLoaded;
+    vpaidFrame.onerror = vpaidFrameLoaded;
+    document.documentElement.appendChild(vpaidFrame);
+  })();
+
+</script>
+<!--End Video Ad -->
+<!--Begin Zedo for travis Tag -->
+<div id="z52d1f625-a3c9-403f-bda1-572da2b5766f" style='display:none' ></div>
+<script>!function(a,n,e,t,r){tagsync=e;var c=window[a];if(tagsync){var d=document.createElement("script");d.src="http://3632.tm.zedo.com/v1/7d65880f-c430-4d6b-872e-beb44a727c1a/atm.js",d.async=!0;var i=document.getElementById(n);if(null==i||"undefined"==i)return;i.parentNode.appendChild(d,i),d.onload=d.onreadystatechange=function(){var a=new zTagManager(n);a.initTagManager(n,c,this.aync,t,r)}}else document.write("<script src='http://3632.tm.zedo.com/v1/7d65880f-c430-4d6b-872e-beb44a727c1a/tm.js?data="+a+"'><"+"/script>")}("datalayer","z52d1f625-a3c9-403f-bda1-572da2b5766f",true, 1 , 1);</script>
+<!-- End Zedo Tag --> 
+<!-- Cedexis CDN benchmark tag -->
+<script>
+  (function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+    a.src="//radar.cedexis.com/1/14935/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+    .test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+  (window,document,"addEventListener","attachEvent","load");
+</script>
+</script>
+<!-- End Cedexis tag -->
+<script type="text/javascript" id="rev2exit" src="https://labs-cdn.revcontent.com/build/revexit.min.js?w=96903&amp;p=89870&amp;k=fc0a12e7f5f7b8451f47997d4d63f08bd1c90742&amp;d=tinypic.com&amp;t=false&amp;i=none&amp;x=both&amp;z=10"></script> 
+<!-- quantcast -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+  _qacct="p-176oj9BMkd_hw";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-176oj9BMkd_hw" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-176oj9BMkd_hw.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<iframe width="1" height="1" frameborder="0" name="form_iframe"></iframe>
+<div class="proper-ad-unit ad-sticky">
+<div id="proper-ad-tinypic_sticky_1"> <script> propertag.cmd.push(function() { proper_display('tinypic_sticky_1'); }); </script> </div>
+</div>
+</body>
+</html>

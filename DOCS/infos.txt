@@ -1,0 +1,37 @@
+1. Contrôle PWM des drivers LED, selon un plan d'éclairage individuel (jusqu'à 7 canaux).
+
+2. Contrôlez le canal d'imitation du clair de lune.
+
+3. L' affichage du plan d'éclairage sous la forme d'un graphique, avec la possibilité de tester en mode accéléré.
+
+4. Mémorisation de quatre images couleur fixes (préréglées).
+
+5. Possibilité d'affectation individuelle des canaux affichés sur l'écran couleur.
+
+6. Gradation automatique du luminaire, avec surchauffe du radiateur de refroidissement.
+
+7. Contrôle de la température de l'eau dans l'aquarium.
+
+8. Contrôle du réchauffeur et du refroidisseur d'eau (maintenant la température réglée)
+
+9. Contrôle de la température du luminaire et de l'unité de puissance.
+
+10. Contrôle PWM des refroidisseurs du réseau et de l'alimentation électrique.
+
+11. Affichage des statistiques des changements de la température quotidienne sous la forme de graphiques.
+
+12. Contrôle du distributeur électromécanique. (nourrir jusqu'à 4 fois par jour).
+
+13. Réglez la luminosité de l'affichage du contrôleur, avec une gradation la nuit.
+
+14. Deux options pour afficher l'heure actuelle en tant qu'économiseur d'écran (économiseur d'écran)
+
+15. Contrôle de divers dispositifs (filtre, aération, valve de CO2, lampe UV ...) dans le temps (5-timers)
+
+16. Désactivation automatique ou manuelle du filtre et aération pendant 10 minutes (temps d'alimentation).
+
+17. Contrôle du niveau d'acidité de l'eau (PH) dans l'aquarium (s'il y a un capteur), avec la possibilité de contrôler la vanne d'alimentation en CO2.
+
+18. Contrôle automatique des distributeurs d'additifs liquides (engrais). 4 canaux.
+
+19. Contrôle automatique PWM des pompes de débit (2 pièces). 
